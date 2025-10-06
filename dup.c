@@ -1,4 +1,4 @@
-//C program to check if a list is palindrome
+
 
 #include <stdio.h>
 #include <stdlib.h>
